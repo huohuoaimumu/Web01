@@ -10,6 +10,7 @@ public class hello {
         list.add(1);
         list.add(1);
         list.add(1);
+        list.add(1);
         for (Object o : list) {
             System.out.println();
         }
